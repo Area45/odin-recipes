@@ -1,0 +1,32 @@
+html{
+    background-color: aquamarine;
+    color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #ff00ea;
+}
+
+a:visited {
+    color: hotpink
+}
+
+a:link {
+    color: yellow;
+}
+
+.ingredients, .steps {
+    background-color: yellow;
+    color: darkblue;
+}
+
+.ingredients .list {
+    background-color: #ff00ea;
+    color: rgb(255, 243, 227);
+}
+
+.steps .list {
+    background-color: blueviolet;
+    color: aquamarine;
+}
